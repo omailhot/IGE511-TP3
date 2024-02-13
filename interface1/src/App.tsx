@@ -15,7 +15,7 @@ function App() {
 
       <main>
         <div className="flex flex-col md:flex-row-reverse md:gap-8 md:px-8">
-          <section className="flex flex-col md:w-1/3 md:gap-8 ">
+          <aside className="flex flex-col md:w-1/3 md:gap-8 ">
             <div className="flex w-full items-center justify-center bg-[var(--light-bg)] p-8 md:mt-8">
               <input
                 className="h-10 w-full bg-white pl-2 outline-none placeholder:text-zinc-200"
@@ -37,7 +37,7 @@ function App() {
                 <li>Lien vers catégorie F</li>
               </ul>
             </div>
-          </section>
+          </aside>
           <section className="mt-8 flex flex-col md:w-2/3">
             <article className="mb-8 h-96 flex-1 bg-[var(--light-bg)] px-8 py-6 text-sm font-medium md:pb-4">
               <h2 className="text-center text-2xl font-bold md:text-left">
