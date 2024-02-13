@@ -120,7 +120,7 @@ function App() {
           </section>
         </div>
       </main>
-      <footer className="absolute bottom-0 flex h-28 w-full flex-col items-center justify-between bg-[var(--dark-bg)] px-8 text-sm font-medium md:h-20 md:flex-row">
+      <footer className="bottom-0 flex h-28 w-full flex-col items-center justify-between bg-[var(--dark-bg)] px-8 text-sm font-medium md:h-20 md:flex-row">
         <span className="mt-6 text-center md:mt-0">
           © Nom du blogue - Tout droits réservés.
         </span>
